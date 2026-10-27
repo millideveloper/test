@@ -1,1 +1,1 @@
-cmd
+Start-Process cmd.exe
